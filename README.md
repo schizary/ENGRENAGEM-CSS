@@ -5,3 +5,9 @@
 <p>A animação a seguir é uma simples engrenagem girando utilizando keyframes.</p>
 
 ![engrenagem](https://github.com/schizary/ENGRENAGEM-CSS/assets/161368632/42a99eef-fdc4-4aea-87bd-55d8bf645c50)
+
+<h1>💻Tecnologias Utilizadas:</h1>
+<div style="display: inline_block"> <br/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
